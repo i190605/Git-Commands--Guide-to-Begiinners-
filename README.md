@@ -9,7 +9,7 @@
 
 
 > # git clone -
-Clone a remote repository to your local machine.
+ Clone a remote repository to your local machine.
 
  > # git init -  
 Initialize a new Git repository in your local directory.
